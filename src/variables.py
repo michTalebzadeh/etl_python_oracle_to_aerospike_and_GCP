@@ -11,7 +11,6 @@ oracleHost = 'rhes564'
 oraclePort = '1521'
 oracleDB = 'mydb12'
 url= "jdbc:oracle:thin:@"+oracleHost+":"+oraclePort+":"+oracleDB
-
 # aerospike variables
 dbHost = "rhes75"
 dbPort = 3000
